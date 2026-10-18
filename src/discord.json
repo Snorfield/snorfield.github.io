@@ -1,0 +1,51 @@
+{
+  "component": {
+    "type": 17,
+    "components": [
+      {
+        "type": 9,
+        "components": [
+          {
+            "type": 10,
+            "content": "# Snorfield"
+          },
+          {
+            "type": 10,
+            "content": "Hey there, I'm Snorfield! I'm an artist, graphic designer, and software engineer from Canada."
+          }
+        ],
+        "accessory": {
+          "type": 11,
+          "media": {
+            "url": "https://raw.githubusercontent.com/Snorfield/whoami/refs/heads/main/avatar.png"
+          }
+        }
+      },
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 5,
+            "label": "GitHub",
+            "emoji": {
+              "name": "GitHub",
+              "id": "1249495348183826564"
+            },
+            "url": "https://github.com/Snorfield"
+          },
+          {
+            "type": 2,
+            "style": 5,
+            "label": "Modrinth",
+            "emoji": {
+              "name": "modrinth",
+              "id": "1040805511538421890"
+            },
+            "url": "https://modrinth.com/user/Snorfield"
+          }
+        ]
+      }
+    ]
+  }
+}
