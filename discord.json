@@ -11,13 +11,13 @@
           },
           {
             "type": 10,
-            "content": "Hey there, I'm Snorfield! I'm an artist, graphic designer, and software engineer from Canada."
+            "content": "Hey there, Snorfield here! I'm a Canadian software engineer, graphic designer, artist, and musician."
           }
         ],
         "accessory": {
           "type": 11,
           "media": {
-            "url": "https://raw.githubusercontent.com/Snorfield/whoami/refs/heads/main/avatar.png"
+            "url": "https://raw.githubusercontent.com/Snorfield/snorfield.github.io/refs/heads/main/avatar.png"
           }
         }
       },
